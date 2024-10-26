@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Caryuter/Caryuter/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Caryuter/Caryuter/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
