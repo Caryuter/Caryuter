@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi!</h1>
+<h1 align="center">Hello World! 👋 I'm Carlos</h1>
 
 ###
 
@@ -8,7 +8,15 @@
 
 ###
 
-<p align="left">🖥️ I into computer science <br>🌱 Currently studying TSU in Software Development at UTEZ <br>💡Front-End Developer in progress <br>📎Learning C and TypeScript <br>🤖2024 FIRST Alumni<br>📫 How to reach me: emanuel.trujillo@yahoo.com </p>
+<ul align="left">
+  <li>🖥️ I into computer science</li>
+  <li>🌱 Currently studying TSU in Software Development at UTEZ </li>
+  <li>💡Front-End Developer in progress </li>
+  <li>📎Learning C and TypeScript </li>
+  <li>🤖2024 FIRST Alumni</li>
+  <li>📕 Gift me a book</li>
+  <li>📫 How to reach me: emanuel.trujillo@yahoo.com</li>
+</ul>
 
 ###
 
