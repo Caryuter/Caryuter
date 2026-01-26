@@ -13,7 +13,7 @@ I enjoy being a nerd, working close to the business logic, designing clean archi
 
 I may not have formal training in software architecture, but I actively apply architectural thinking when designing systems: choosing technologies, patterns, and trade-offs based on real requirements.
 
-> Proud FIRST Robitics Alumni on Imperium Fons 6605
+> Proud FIRST Robotics Alumni on Imperium Fons 6605
 
 ---
 
